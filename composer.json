@@ -1,0 +1,16 @@
+{
+    "name": "franc/chamadasonline",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "LuGustavo10",
+            "email": "francaguto10@gmail.com"
+        }
+    ],
+    "require": {}
+}
